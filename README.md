@@ -14,3 +14,4 @@ Questions answered:
 3] Other than these 13 parameters, are there any variables that can be associated with the increase in defective units?
 
 4] [Bonus] From an analysis and data collection perspective, what methods of control could be implemented to detect such a problem while processing the units thereby preventing such an increase in defects?
+
